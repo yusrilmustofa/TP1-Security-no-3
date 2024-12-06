@@ -3,7 +3,7 @@ const decrypt = require('./decryption')
 
 
 let plaintext = "Ruko, Jl. Dr. Setiabudi No.192, Hegarmanah, Kec. Cidadap, Kota Bandung, Jawa Barat 40152";
-let pad = "2702374301"; // NIM
+let pad = "2702374301";
 
 console.log("PLAIN TEXT:",plaintext)
 console.log("NIM:",pad)
